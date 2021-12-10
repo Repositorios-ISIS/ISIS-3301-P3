@@ -1,3 +1,6 @@
 *.csv
 *.xlsx
 *.zip
+
+#Do not ignore el pinche archivo re importante
+!docs/EntregaAnalisisRequeridos.xlsx
