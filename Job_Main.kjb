@@ -356,7 +356,7 @@
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>112</xloc>
-      <yloc>320</yloc>
+      <yloc>336</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -378,7 +378,7 @@ evento VARCHAR(150)
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>272</xloc>
-      <yloc>96</yloc>
+      <yloc>144</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -417,7 +417,7 @@ evento VARCHAR(150)
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>464</xloc>
-      <yloc>96</yloc>
+      <yloc>144</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -505,7 +505,7 @@ long_muni DECIMAL
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>272</xloc>
-      <yloc>320</yloc>
+      <yloc>272</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -527,7 +527,7 @@ sexo VARCHAR(50)
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>272</xloc>
-      <yloc>432</yloc>
+      <yloc>336</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -551,7 +551,7 @@ población INT
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>272</xloc>
-      <yloc>528</yloc>
+      <yloc>400</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -590,7 +590,7 @@ población INT
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>464</xloc>
-      <yloc>320</yloc>
+      <yloc>272</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -629,7 +629,7 @@ población INT
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>464</xloc>
-      <yloc>432</yloc>
+      <yloc>336</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -654,7 +654,7 @@ num_casos INT
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>272</xloc>
-      <yloc>624</yloc>
+      <yloc>464</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -693,7 +693,7 @@ num_casos INT
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>464</xloc>
-      <yloc>528</yloc>
+      <yloc>400</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -732,7 +732,7 @@ num_casos INT
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>464</xloc>
-      <yloc>624</yloc>
+      <yloc>464</yloc>
       <attributes_kjc/>
     </entry>
   </entries>
